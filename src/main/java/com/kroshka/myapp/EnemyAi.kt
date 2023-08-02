@@ -4,4 +4,4 @@ class EnemyAi : Player() {
     fun enemyAiChoice() {
         currentChoice = GameItems.getRandomChoice()
     }
-}
+} // player 2
